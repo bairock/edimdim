@@ -1,0 +1,9 @@
+prisma/.env
+DATABASE_URL="postgresql://postgres:postgres@localhost:5432/edim"
+
+TOKEN_SECRET=TOKENSECRET
+SMS_API_ID=343E1D03-F9DD-2BD4-0942-A5CC36A86533
+CORS_DOMAIN=http://localhost:3000
+MAIL_USER=info@itkitchen.su 
+MAIL_PASSWORD=tiktiktik2018
+TERMINAL_KEY=1636697640428DEMO
