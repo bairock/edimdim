@@ -1,0 +1,4 @@
+-- AlterTable
+ALTER TABLE "Address" ADD COLUMN     "allTime" BOOLEAN NOT NULL DEFAULT false,
+ALTER COLUMN "startWorkAt" DROP NOT NULL,
+ALTER COLUMN "endWorkAt" DROP NOT NULL;
